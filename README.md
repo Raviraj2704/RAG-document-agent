@@ -3,7 +3,7 @@
 An AI-powered agent that lets you chat with multiple documents simultaneously. Upload PDFs, Word docs, Excel files, or text files and get instant answers with source citations.
 
 ## 🔗 Live Demo
-👉 [Try it here](https://rag-doc-agent.streamlit.app)
+👉 [Try it here]https://rag-document-agent-yndupnkbh5y6wuetwxcxzx.streamlit.app/#rag-document-agent
 
 ## 🚀 Features
 - 📄 **Multiple File Support** — PDF, DOCX, TXT, XLSX, CSV
